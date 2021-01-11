@@ -18,4 +18,8 @@ public class GG : MonoBehaviour
     {
         
     }
+    void Solution()
+    {
+
+    }
 }
