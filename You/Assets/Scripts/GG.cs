@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class GG : MonoBehaviour
 {
+    public int length = 10;
+
+    public int voiceQuantity = 10;
     // Start is called before the first frame update
     void Start()
     {
