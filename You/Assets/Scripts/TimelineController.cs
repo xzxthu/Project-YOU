@@ -32,7 +32,7 @@ public class TimelineController : MonoBehaviour
         if(time>=director.duration)
         {
             time = 0;
-            SceneManager.LoadScene(0);
+            SceneManager.LoadScene("Running");
         }
     }
 }
