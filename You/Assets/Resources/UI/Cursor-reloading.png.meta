@@ -1,0 +1,1412 @@
+fileFormatVersion: 2
+guid: 5e09ec7c42ac9a64e80aa19cbb839dd4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1869350721948683029
+    second: Cursor-reloading_0
+  - first:
+      213: 1140602241348914581
+    second: Cursor-reloading_1
+  - first:
+      213: 2530815472341930527
+    second: Cursor-reloading_2
+  - first:
+      213: 3124232071646185326
+    second: Cursor-reloading_3
+  - first:
+      213: -6790701302147644638
+    second: Cursor-reloading_4
+  - first:
+      213: 6189823510307576147
+    second: Cursor-reloading_5
+  - first:
+      213: -7245207076117458424
+    second: Cursor-reloading_6
+  - first:
+      213: -1953552874539798189
+    second: Cursor-reloading_7
+  - first:
+      213: -950603996709095720
+    second: Cursor-reloading_8
+  - first:
+      213: -990884397504459096
+    second: Cursor-reloading_9
+  - first:
+      213: -5025244256793797645
+    second: Cursor-reloading_10
+  - first:
+      213: -9145364142939045090
+    second: Cursor-reloading_11
+  - first:
+      213: 3371939544258532453
+    second: Cursor-reloading_12
+  - first:
+      213: -4859253792472862375
+    second: Cursor-reloading_13
+  - first:
+      213: 1183784416762770763
+    second: Cursor-reloading_14
+  - first:
+      213: 1658673504148809522
+    second: Cursor-reloading_15
+  - first:
+      213: -5305585117602501546
+    second: Cursor-reloading_16
+  - first:
+      213: -3341275532410368439
+    second: Cursor-reloading_17
+  - first:
+      213: -2716561703567491931
+    second: Cursor-reloading_18
+  - first:
+      213: -7267537144774376649
+    second: Cursor-reloading_19
+  - first:
+      213: -1453081736654903670
+    second: Cursor-reloading_20
+  - first:
+      213: -4711507771888001290
+    second: Cursor-reloading_21
+  - first:
+      213: 187999295831655398
+    second: Cursor-reloading_22
+  - first:
+      213: -4210418349237010896
+    second: Cursor-reloading_23
+  - first:
+      213: 770147404837723192
+    second: Cursor-reloading_24
+  - first:
+      213: 6574776031752368888
+    second: Cursor-reloading_25
+  - first:
+      213: 3259886343430911623
+    second: Cursor-reloading_26
+  - first:
+      213: -2290086791359692811
+    second: Cursor-reloading_27
+  - first:
+      213: -5819322341341222531
+    second: Cursor-reloading_28
+  - first:
+      213: -3453202469794781045
+    second: Cursor-reloading_29
+  - first:
+      213: 7619122498699707602
+    second: Cursor-reloading_30
+  - first:
+      213: -269562487577194119
+    second: Cursor-reloading_31
+  - first:
+      213: -1875038873317938037
+    second: Cursor-reloading_32
+  - first:
+      213: 8022450810566417448
+    second: Cursor-reloading_33
+  - first:
+      213: 9052680735071501255
+    second: Cursor-reloading_34
+  - first:
+      213: -7435143713902770864
+    second: Cursor-reloading_35
+  - first:
+      213: -238104229817511659
+    second: Cursor-reloading_36
+  - first:
+      213: 7275502221757319066
+    second: Cursor-reloading_37
+  - first:
+      213: 1581997171761334039
+    second: Cursor-reloading_38
+  - first:
+      213: 7314501509592642858
+    second: Cursor-reloading_39
+  - first:
+      213: 8291189407787378302
+    second: Cursor-reloading_40
+  - first:
+      213: -8998666730356097739
+    second: Cursor-reloading_41
+  - first:
+      213: 1387247073221537422
+    second: Cursor-reloading_42
+  - first:
+      213: 8309326705206136341
+    second: Cursor-reloading_43
+  - first:
+      213: 4912541213331840730
+    second: Cursor-reloading_44
+  - first:
+      213: -6175227885251578446
+    second: Cursor-reloading_45
+  - first:
+      213: 4290829150446616266
+    second: Cursor-reloading_46
+  - first:
+      213: -8082722988700143881
+    second: Cursor-reloading_47
+  - first:
+      213: 1263628233788330890
+    second: Cursor-reloading_48
+  - first:
+      213: 8320847790697851716
+    second: Cursor-reloading_49
+  - first:
+      213: 586284472897488825
+    second: Cursor-reloading_50
+  - first:
+      213: -8748256633744079928
+    second: Cursor-reloading_51
+  - first:
+      213: -611202497498915409
+    second: Cursor-reloading_52
+  - first:
+      213: -2747429663966260499
+    second: Cursor-reloading_53
+  - first:
+      213: -746956896975267409
+    second: Cursor-reloading_54
+  - first:
+      213: 6538251639394240146
+    second: Cursor-reloading_55
+  - first:
+      213: -4562878626160978822
+    second: Cursor-reloading_56
+  - first:
+      213: -3098450608448580000
+    second: Cursor-reloading_57
+  - first:
+      213: -218135996653523997
+    second: Cursor-reloading_58
+  - first:
+      213: 21040396865004222
+    second: Cursor-reloading_59
+  - first:
+      213: -1766388595059722877
+    second: Cursor-reloading_60
+  - first:
+      213: 7339555210723356669
+    second: Cursor-reloading_61
+  - first:
+      213: 2827166359604868355
+    second: Cursor-reloading_62
+  - first:
+      213: 3630905266618158832
+    second: Cursor-reloading_63
+  - first:
+      213: 5628615883863797673
+    second: Cursor-reloading_64
+  - first:
+      213: 3225833325203500983
+    second: Cursor-reloading_65
+  - first:
+      213: -4679224830451752283
+    second: Cursor-reloading_66
+  - first:
+      213: 3425125970961234746
+    second: Cursor-reloading_67
+  - first:
+      213: -2269315632242847219
+    second: Cursor-reloading_68
+  - first:
+      213: 3974026393140695714
+    second: Cursor-reloading_69
+  - first:
+      213: -989663554325947628
+    second: Cursor-reloading_70
+  - first:
+      213: 5165616428110187186
+    second: Cursor-reloading_71
+  - first:
+      213: 688809678195799912
+    second: Cursor-reloading_72
+  - first:
+      213: 4846004277165376771
+    second: Cursor-reloading_73
+  - first:
+      213: 9198336844829333597
+    second: Cursor-reloading_74
+  - first:
+      213: -8910780436574643556
+    second: Cursor-reloading_75
+  - first:
+      213: 2773384429414106553
+    second: Cursor-reloading_76
+  - first:
+      213: 1986473712746502524
+    second: Cursor-reloading_77
+  - first:
+      213: -4075570963430056065
+    second: Cursor-reloading_78
+  - first:
+      213: -2682547289526808607
+    second: Cursor-reloading_79
+  - first:
+      213: -3499604988883649866
+    second: Cursor-reloading_80
+  - first:
+      213: 1700689350712809238
+    second: Cursor-reloading_81
+  - first:
+      213: 3988182195230973182
+    second: Cursor-reloading_82
+  - first:
+      213: -4197566669475278138
+    second: Cursor-reloading_83
+  - first:
+      213: 2404115670304837654
+    second: Cursor-reloading_84
+  - first:
+      213: 2024739803224456301
+    second: Cursor-reloading_85
+  - first:
+      213: 5979099184719438282
+    second: Cursor-reloading_86
+  - first:
+      213: 1683066893874141795
+    second: Cursor-reloading_87
+  - first:
+      213: -7937163692999759453
+    second: Cursor-reloading_88
+  - first:
+      213: -5701091458744218597
+    second: Cursor-reloading_89
+  - first:
+      213: 1686546660189433216
+    second: Cursor-reloading_90
+  - first:
+      213: -3515840455169130688
+    second: Cursor-reloading_91
+  - first:
+      213: -6205413000081509713
+    second: Cursor-reloading_92
+  - first:
+      213: -1760336907562529123
+    second: Cursor-reloading_93
+  - first:
+      213: 1283060721444564870
+    second: Cursor-reloading_94
+  - first:
+      213: -7506219276921167847
+    second: Cursor-reloading_95
+  - first:
+      213: 3390745388156977618
+    second: Cursor-reloading_96
+  - first:
+      213: 921681459401239205
+    second: Cursor-reloading_97
+  - first:
+      213: 2943425122483038547
+    second: Cursor-reloading_98
+  - first:
+      213: -5721114384344453098
+    second: Cursor-reloading_99
+  - first:
+      213: 6861087336301890968
+    second: Cursor-reloading_100
+  - first:
+      213: 524538417206316219
+    second: Cursor-reloading_101
+  - first:
+      213: 1265333161539872527
+    second: Cursor-reloading_102
+  - first:
+      213: -8288175306252253369
+    second: Cursor-reloading_103
+  - first:
+      213: 2055288519463046688
+    second: Cursor-reloading_104
+  - first:
+      213: 8186623207794535348
+    second: Cursor-reloading_105
+  - first:
+      213: 9142290292593724124
+    second: Cursor-reloading_106
+  - first:
+      213: 2533803045139324371
+    second: Cursor-reloading_107
+  - first:
+      213: -2228776576730648604
+    second: Cursor-reloading_108
+  - first:
+      213: 2671071381286416006
+    second: Cursor-reloading_109
+  - first:
+      213: 5511708248218661825
+    second: Cursor-reloading_110
+  - first:
+      213: 7092040495255853868
+    second: Cursor-reloading_111
+  - first:
+      213: -632844120020019056
+    second: Cursor-reloading_112
+  - first:
+      213: 2055898427605595245
+    second: Cursor-reloading_113
+  - first:
+      213: 1135400018958766982
+    second: Cursor-reloading_114
+  - first:
+      213: -5289633385364344683
+    second: Cursor-reloading_115
+  - first:
+      213: 1154687571344082164
+    second: Cursor-reloading_116
+  - first:
+      213: -1121938047154099387
+    second: Cursor-reloading_117
+  - first:
+      213: 1421048767148661755
+    second: Cursor-reloading_118
+  - first:
+      213: -6883657548070823119
+    second: Cursor-reloading_119
+  - first:
+      213: -4233885247155501460
+    second: Cursor-reloading_120
+  - first:
+      213: 3154343731389557013
+    second: Cursor-reloading_121
+  - first:
+      213: 6598230305540465689
+    second: Cursor-reloading_122
+  - first:
+      213: 8189598972216935075
+    second: Cursor-reloading_123
+  - first:
+      213: -5114420164467180441
+    second: Cursor-reloading_124
+  - first:
+      213: 6342655715355330237
+    second: Cursor-reloading_125
+  - first:
+      213: 3293996008581253953
+    second: Cursor-reloading_126
+  - first:
+      213: -2421713917821229478
+    second: Cursor-reloading_127
+  - first:
+      213: 4546356393480381864
+    second: Cursor-reloading_128
+  - first:
+      213: -7749398713272615371
+    second: Cursor-reloading_129
+  - first:
+      213: 3993842000065475731
+    second: Cursor-reloading_130
+  - first:
+      213: 1117244391361642312
+    second: Cursor-reloading_131
+  - first:
+      213: 2588089229368679295
+    second: Cursor-reloading_132
+  - first:
+      213: 5867899002472222838
+    second: Cursor-reloading_133
+  - first:
+      213: 7427125900916924849
+    second: Cursor-reloading_134
+  - first:
+      213: 6807729036143659174
+    second: Cursor-reloading_135
+  - first:
+      213: -732661762431102011
+    second: Cursor-reloading_136
+  - first:
+      213: 223427187652436216
+    second: Cursor-reloading_137
+  - first:
+      213: -1449370333511929760
+    second: Cursor-reloading_138
+  - first:
+      213: -2685596758903127795
+    second: Cursor-reloading_139
+  - first:
+      213: 6598180896835513783
+    second: Cursor-reloading_140
+  - first:
+      213: -6309850283906383353
+    second: Cursor-reloading_141
+  - first:
+      213: 7361154719944914310
+    second: Cursor-reloading_142
+  - first:
+      213: -4128357501242256989
+    second: Cursor-reloading_143
+  - first:
+      213: 3418760639698509739
+    second: Cursor-reloading_144
+  - first:
+      213: -9064402097037451336
+    second: Cursor-reloading_145
+  - first:
+      213: 5000650960312354133
+    second: Cursor-reloading_146
+  - first:
+      213: -4165847969427310208
+    second: Cursor-reloading_147
+  - first:
+      213: 7639290557670480040
+    second: Cursor-reloading_148
+  - first:
+      213: 1191499141921379244
+    second: Cursor-reloading_149
+  - first:
+      213: -1221619948561800723
+    second: Cursor-reloading_150
+  - first:
+      213: 7863887583424075699
+    second: Cursor-reloading_151
+  - first:
+      213: -6360961316334565138
+    second: Cursor-reloading_152
+  - first:
+      213: -4981433520363271133
+    second: Cursor-reloading_153
+  - first:
+      213: 8080742912408958173
+    second: Cursor-reloading_154
+  - first:
+      213: -8740344010755576191
+    second: Cursor-reloading_155
+  - first:
+      213: -8460177384812135113
+    second: Cursor-reloading_156
+  - first:
+      213: -362376037811267209
+    second: Cursor-reloading_157
+  - first:
+      213: -2493920047702275476
+    second: Cursor-reloading_158
+  - first:
+      213: -1163644347388585142
+    second: Cursor-reloading_159
+  - first:
+      213: 2137952996368528377
+    second: Cursor-reloading_160
+  - first:
+      213: 5576971311106377521
+    second: Cursor-reloading_161
+  - first:
+      213: -3943279512121134957
+    second: Cursor-reloading_162
+  - first:
+      213: 8857192449960261232
+    second: Cursor-reloading_163
+  - first:
+      213: 1911629861731522239
+    second: Cursor-reloading_164
+  - first:
+      213: 7778604316069443290
+    second: Cursor-reloading_165
+  - first:
+      213: -2467759270412305915
+    second: Cursor-reloading_166
+  - first:
+      213: 6727056456826600883
+    second: Cursor-reloading_167
+  - first:
+      213: -3385478284653141408
+    second: Cursor-reloading_168
+  - first:
+      213: -3703038629990514100
+    second: Cursor-reloading_169
+  - first:
+      213: 8896883412121117193
+    second: Cursor-reloading_170
+  - first:
+      213: 8345323263306502491
+    second: Cursor-reloading_171
+  - first:
+      213: 4841198635935838954
+    second: Cursor-reloading_172
+  - first:
+      213: -8531269877203243943
+    second: Cursor-reloading_173
+  - first:
+      213: -7625755941893219963
+    second: Cursor-reloading_174
+  - first:
+      213: -4949219195852410122
+    second: Cursor-reloading_175
+  - first:
+      213: -7506451255796164232
+    second: Cursor-reloading_176
+  - first:
+      213: 3127728441604770601
+    second: Cursor-reloading_177
+  - first:
+      213: 2523524510760126795
+    second: Cursor-reloading_178
+  - first:
+      213: 4588696285120695111
+    second: Cursor-reloading_179
+  - first:
+      213: 808098296426099552
+    second: Cursor-reloading_180
+  - first:
+      213: 3056500754308602374
+    second: Cursor-reloading_181
+  - first:
+      213: 744987087642310237
+    second: Cursor-reloading_182
+  - first:
+      213: -2701176223444977527
+    second: Cursor-reloading_183
+  - first:
+      213: 1584113769886402157
+    second: Cursor-reloading_184
+  - first:
+      213: 7011264434501483770
+    second: Cursor-reloading_185
+  - first:
+      213: -3193977516315960217
+    second: Cursor-reloading_186
+  - first:
+      213: 3916741839528801060
+    second: Cursor-reloading_187
+  - first:
+      213: -7341459267227647518
+    second: Cursor-reloading_188
+  - first:
+      213: 8807127082586057935
+    second: Cursor-reloading_189
+  - first:
+      213: -8367709041624534829
+    second: Cursor-reloading_190
+  - first:
+      213: -8836118464882565026
+    second: Cursor-reloading_191
+  - first:
+      213: -3769902550560668170
+    second: Cursor-reloading_192
+  - first:
+      213: 4426822509015697072
+    second: Cursor-reloading_193
+  - first:
+      213: 1862115662954081222
+    second: Cursor-reloading_194
+  - first:
+      213: 7193179971186592370
+    second: Cursor-reloading_195
+  - first:
+      213: 3593903672462368689
+    second: Cursor-reloading_196
+  - first:
+      213: -9022507798410160734
+    second: Cursor-reloading_197
+  - first:
+      213: 7669389206641085873
+    second: Cursor-reloading_198
+  - first:
+      213: 365655805318306868
+    second: Cursor-reloading_199
+  - first:
+      213: 4238234908462817095
+    second: Cursor-reloading_200
+  - first:
+      213: 3412166695239472633
+    second: Cursor-reloading_201
+  - first:
+      213: 2822196531986334911
+    second: Cursor-reloading_202
+  - first:
+      213: 3192317120857631087
+    second: Cursor-reloading_203
+  - first:
+      213: -1406593167458110621
+    second: Cursor-reloading_204
+  - first:
+      213: -2899282267673277400
+    second: Cursor-reloading_205
+  - first:
+      213: -5456051035323994657
+    second: Cursor-reloading_206
+  - first:
+      213: -3018136056019524837
+    second: Cursor-reloading_207
+  - first:
+      213: 5573275469755420770
+    second: Cursor-reloading_208
+  - first:
+      213: -4006019504278258030
+    second: Cursor-reloading_209
+  - first:
+      213: 6516330567034587587
+    second: Cursor-reloading_210
+  - first:
+      213: 7019458895779180212
+    second: Cursor-reloading_211
+  - first:
+      213: -5985066445926466528
+    second: Cursor-reloading_212
+  - first:
+      213: -1006381725776320541
+    second: Cursor-reloading_213
+  - first:
+      213: 8783241338282067233
+    second: Cursor-reloading_214
+  - first:
+      213: 3388103130752368392
+    second: Cursor-reloading_215
+  - first:
+      213: 21175158668166042
+    second: Cursor-reloading_216
+  - first:
+      213: -8345675235015788357
+    second: Cursor-reloading_217
+  - first:
+      213: -1787403231185222803
+    second: Cursor-reloading_218
+  - first:
+      213: -1645936680884224647
+    second: Cursor-reloading_219
+  - first:
+      213: -1942868910667055652
+    second: Cursor-reloading_220
+  - first:
+      213: -7444914788129854385
+    second: Cursor-reloading_221
+  - first:
+      213: 5087824865041405840
+    second: Cursor-reloading_222
+  - first:
+      213: 1821564182541816643
+    second: Cursor-reloading_223
+  - first:
+      213: 915798335987790506
+    second: Cursor-reloading_224
+  - first:
+      213: 6295886994768268982
+    second: Cursor-reloading_225
+  - first:
+      213: -797199523459983047
+    second: Cursor-reloading_226
+  - first:
+      213: 3752803257727202063
+    second: Cursor-reloading_227
+  - first:
+      213: 7882161466172886253
+    second: Cursor-reloading_228
+  - first:
+      213: 1487181081200266403
+    second: Cursor-reloading_229
+  - first:
+      213: -6559765877361814472
+    second: Cursor-reloading_230
+  - first:
+      213: 6723511001703007678
+    second: Cursor-reloading_231
+  - first:
+      213: 2676983322519634376
+    second: Cursor-reloading_232
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cursor-reloading_0
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1334
+        width: 267
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b0f5ec39441f910800000000000000
+      internalID: 1869350721948683029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor-reloading_1
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1334
+        width: 267
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dcd9102bb34df00800000000000000
+      internalID: 1140602241348914581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor-reloading_2
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1334
+        width: 267
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12d00563434f1320800000000000000
+      internalID: 2530815472341930527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor-reloading_3
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1334.1666
+        width: 266.8
+        height: 266.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e678a5a24808b5b20800000000000000
+      internalID: 3124232071646185326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor-reloading_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1068.1666
+        width: 266.8
+        height: 266.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305b5f42592c1a0800000000000000
+      internalID: -6790701302147644638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor-reloading_5
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1068.1666
+        width: 266.8
+        height: 266.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3599e3200bba6e550800000000000000
+      internalID: 6189823510307576147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor-reloading_6
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1068.1666
+        width: 266.8
+        height: 266.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8025fdf0d8ad37b90800000000000000
+      internalID: -7245207076117458424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor-reloading_7
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1068.1666
+        width: 266.8
+        height: 266.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351bc1fc20693e4e0800000000000000
+      internalID: -1953552874539798189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor-reloading_8
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1068.1666
+        width: 266.8
+        height: 266.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6761693b6cec2f0800000000000000
+      internalID: -950603996709095720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor-reloading_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 802.1666
+        width: 266.8
+        height: 266.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae0541f3ebaf32f0800000000000000
+      internalID: -990884397504459096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor-reloading_10
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 802.1666
+        width: 266.8
+        height: 266.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbdb3c29feb24ab0800000000000000
+      internalID: -5025244256793797645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor-reloading_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 802.1666
+        width: 266.8
+        height: 266.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13068624c3251180800000000000000
+      internalID: -9145364142939045090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor-reloading_12
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 802.1666
+        width: 266.8
+        height: 266.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5645f9376298bce20800000000000000
+      internalID: 3371939544258532453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor-reloading_13
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 802.1666
+        width: 266.8
+        height: 266.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9517f22db66709cb0800000000000000
+      internalID: -4859253792472862375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor-reloading_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 536.1666
+        width: 266.8
+        height: 266.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45b9c3b7a5ad6010800000000000000
+      internalID: 1183784416762770763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor-reloading_15
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 536.1666
+        width: 266.8
+        height: 266.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237642593cac40710800000000000000
+      internalID: 1658673504148809522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor-reloading_16
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 536.1666
+        width: 266.8
+        height: 266.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c24bb1276ce56b0800000000000000
+      internalID: -5305585117602501546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor-reloading_17
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 536.1666
+        width: 266.8
+        height: 266.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ec9f92b9761a1d0800000000000000
+      internalID: -3341275532410368439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor-reloading_18
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 536.1666
+        width: 266.8
+        height: 266.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acfd680685dc4ad0800000000000000
+      internalID: -2716561703567491931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor-reloading_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270.16666
+        width: 266.8
+        height: 266.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73344cdc875842b90800000000000000
+      internalID: -7267537144774376649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor-reloading_20
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 270.16666
+        width: 266.8
+        height: 266.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86a319fbdd95dbe0800000000000000
+      internalID: -1453081736654903670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor-reloading_21
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 270.16666
+        width: 266.8
+        height: 266.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe9f14e4ac5d9eb0800000000000000
+      internalID: -4711507771888001290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor-reloading_22
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 270.16666
+        width: 266.8
+        height: 266.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3c11e0d58eb9200800000000000000
+      internalID: 187999295831655398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor-reloading_23
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 270.16666
+        width: 266.8
+        height: 266.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ef0f1b1d69195c0800000000000000
+      internalID: -4210418349237010896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor-reloading_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4.1666565
+        width: 266.8
+        height: 266.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c9a0afbfc10ba00800000000000000
+      internalID: 770147404837723192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor-reloading_25
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 4.1666565
+        width: 266.8
+        height: 266.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f23a5a57fb4e3b50800000000000000
+      internalID: 6574776031752368888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor-reloading_26
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 4.1666565
+        width: 266.8
+        height: 266.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786b8549b517d3d20800000000000000
+      internalID: 3259886343430911623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor-reloading_27
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 4.1666565
+        width: 266.8
+        height: 266.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fff038523af730e0800000000000000
+      internalID: -2290086791359692811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor-reloading_28
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 4.1666565
+        width: 266.8
+        height: 266.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79acd2a92d9d3fa0800000000000000
+      internalID: -5819322341341222531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
