@@ -513,7 +513,7 @@ Transform:
   m_LocalScale: {x: 42.22872, y: 7.2076197, z: 7.2076197}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 17
+  m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: -96.04301, z: 0}
 --- !u!1001 &616685424
 PrefabInstance:
@@ -1409,7 +1409,7 @@ Transform:
   m_LocalScale: {x: 42.22872, y: 7.2076197, z: 7.2076197}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 16
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: -96.04301, z: 0}
 --- !u!1001 &1750543005
 PrefabInstance:
